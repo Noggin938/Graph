@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-
+        // https://github.com/Noggin938/Graph
         // Create a class
         Graph g = new Graph (5);
 
@@ -18,3 +18,4 @@ public class Main {
         g.adjacent_nodes(3);
     }
 }
+// ChatGPT used for assistance
